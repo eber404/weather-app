@@ -1,7 +1,0 @@
-{
-  "users": [
-    { "id": "1", "name": "tom", "email": "tom@blink182.com" },
-    { "id": "2", "name": "mark", "email": "mark@blink182.com" },
-    { "id": "3", "name": "travis", "email": "travis@blink182.com" }
-  ]
-}
