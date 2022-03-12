@@ -4,6 +4,12 @@ module.exports = {
   webpack: {
     alias: {
       '@': path.resolve(__dirname, 'src/'),
+      '@mui/styled-engine': '@mui/styled-engine-sc',
+    },
+  },
+  babel: {
+    loaderOptions: {
+      babelrc: true,
     },
   },
 }
