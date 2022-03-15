@@ -26,8 +26,7 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "craco eject",
-    "server": "json-server --watch src/backend/db.json --routes src/backend/routes.json --delay 1000 --port 3333"
+    "eject": "craco eject"
   },
   "eslintConfig": {
     "extends": [
