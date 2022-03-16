@@ -9,7 +9,7 @@ export const theme = createTheme({
   },
   typography: {
     body1: {
-      fontFamily: ['Neue Haas Display'],
+      fontFamily: ['NeueHaasDisplay'],
       fontStyle: 'normal',
       fontWeight: 400,
     },
